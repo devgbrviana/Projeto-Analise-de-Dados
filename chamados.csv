@@ -1,0 +1,51 @@
+﻿id_chamado;id_usuario;data_abertura;tipo_incidente
+1001;4;10/01/2023 09:30;Acesso Nao Autorizado
+1002;12;10/01/2023 10:15;Tentativa de Invasao
+1003;17;11/01/2023 11:00;Phishing
+1004;23;11/01/2023 14:45;Malware
+1005;4;12/01/2023 08:00;Acesso Nao Autorizado
+1006;5;12/01/2023 09:10;Tentativa de Invasao
+1007;10;12/01/2023 12:30;Phishing
+1008;12;13/01/2023 15:20;Malware
+1009;14;13/01/2023 16:55;Acesso Nao Autorizado
+1010;2;14/01/2023 09:00;Tentativa de Invasao
+1011;12;14/01/2023 11:00;Malware
+1012;7;14/01/2023 14:00;Phishing
+1013;12;15/01/2023 10:00;Acesso Nao Autorizado
+1014;19;15/01/2023 15:30;Tentativa de Invasao
+1015;4;16/01/2023 11:20;Phishing
+1016;16;16/01/2023 16:10;Malware
+1017;17;17/01/2023 09:50;Acesso Nao Autorizado
+1018;2;17/01/2023 12:40;Tentativa de Invasao
+1019;17;18/01/2023 10:30;Phishing
+1020;3;18/01/2023 14:00;Malware
+1021;2;18/01/2023 16:30;Acesso Nao Autorizado
+1022;4;19/01/2023 11:00;Tentativa de Invasao
+1023;8;19/01/2023 13:20;Phishing
+1024;24;19/01/2023 15:40;Malware
+1025;4;20/01/2023 09:15;Acesso Nao Autorizado
+1026;29;20/01/2023 12:50;Tentativa de Invasao
+1027;33;20/01/2023 15:10;Phishing
+1028;38;21/01/2023 10:00;Malware
+1029;4;21/01/2023 11:30;Acesso Nao Autorizado
+1030;41;22/01/2023 13:00;Tentativa de Invasao
+1031;4;22/01/2023 15:30;Phishing
+1032;45;23/01/2023 10:45;Malware
+1033;48;23/01/2023 14:00;Acesso Nao Autorizado
+1034;22;24/01/2023 11:10;Tentativa de Invasao
+1035;4;24/01/2023 16:00;Phishing
+1036;25;25/01/2023 09:30;Malware
+1037;36;25/01/2023 11:50;Acesso Nao Autorizado
+1038;4;26/01/2023 14:20;Tentativa de Invasao
+1039;37;26/01/2023 16:40;Phishing
+1040;11;27/01/2023 10:10;Malware
+1041;4;27/01/2023 15:00;Acesso Nao Autorizado
+1042;39;28/01/2023 09:40;Tentativa de Invasao
+1043;4;28/01/2023 12:00;Phishing
+1044;40;28/01/2023 16:00;Malware
+1045;4;29/01/2023 09:20;Acesso Nao Autorizado
+1046;42;29/01/2023 11:15;Tentativa de Invasao
+1047;4;29/01/2023 14:00;Phishing
+1048;43;30/01/2023 09:00;Malware
+1049;4;30/01/2023 11:00;Acesso Nao Autorizado
+1050;44;31/01/2023 15:30;Tentativa de Invasao

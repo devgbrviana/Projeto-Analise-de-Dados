@@ -1,0 +1,11 @@
+id_vulnerabilidade,sistema,descricao,severidade,data_descoberta
+1,App_Financeiro_Antigo,Credenciais embutidas no codigo,Critico,2023-01-05
+2,Servidor_Compartilhado,Porta 22 aberta publicamente,Alto,2023-01-07
+3,Planilha_Controle_Acesso,Falha de validacao de entrada,Medio,2023-01-09
+4,Sistema_RH_Legado,Versao desatualizada do Apache,Critico,2023-01-12
+5,App_Marketing,API sem autenticacao,Alto,2023-01-15
+6,Planilha_Gestao_Projetos,Nivel de permissao incorreto,Medio,2023-01-18
+7,Servidor_Backup,Configuracao de rede insegura,Critico,2023-01-20
+8,Site_Corporativo_Dev,SQL Injection vulneravel,Alto,2023-01-22
+9,App_Vendas_Nao_Oficial,Criptografia fraca,Medio,2023-01-25
+10,Sistema_TI_Antigo,Acesso anonimo permitido,Critico,2023-01-28

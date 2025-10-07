@@ -1,0 +1,51 @@
+id_usuario,nome,departamento
+1,Joao Silva,Marketing
+2,Maria Souza,Financas
+3,Carlos Ferreira,Recursos Humanos
+4,Ana Paula,Tecnologia
+5,Pedro Santos,Vendas
+6,Fernanda Costa,Tecnologia
+7,Mariana Oliveira,Marketing
+8,Bruno Lima,Financas
+9,Julia Almeida,Marketing
+10,Rafael Santos,Vendas
+11,Camila Pereira,Recursos Humanos
+12,Guilherme Alves,Tecnologia
+13,Juliana Garcia,Marketing
+14,Felipe Castro,Financas
+15,Isabela Rodrigues,Vendas
+16,Lucas Souza,Recursos Humanos
+17,Larissa Mendes,Tecnologia
+18,Gustavo Oliveira,Marketing
+19,Patricia Gomes,Financas
+20,Tiago Martins,Vendas
+21,Amanda Ribeiro,Marketing
+22,Ricardo Pires,Recursos Humanos
+23,Sofia Lopes,Tecnologia
+24,Beatriz Fernandes,Financas
+25,Eduardo Nunes,Vendas
+26,Debora Castro,Recursos Humanos
+27,Fabio Moreira,Tecnologia
+28,Carolina Vieira,Marketing
+29,Daniela Ferreira,Financas
+30,Gabriel Rocha,Vendas
+31,Renata Silva,Recursos Humanos
+32,Arthur Lima,Tecnologia
+33,Livia Martins,Marketing
+34,Marcelo Correa,Financas
+35,Tatiane Souza,Vendas
+36,Leonardo Mendes,Recursos Humanos
+37,Cristina Pires,Tecnologia
+38,Bruno Lima,Financas
+39,Julia Almeida,Marketing
+40,Rafael Santos,Vendas
+41,Camila Pereira,Recursos Humanos
+42,Guilherme Alves,Tecnologia
+43,Juliana Garcia,Marketing
+44,Felipe Castro,Financas
+45,Isabela Rodrigues,Vendas
+46,Lucas Souza,Recursos Humanos
+47,Larissa Mendes,Tecnologia
+48,Gustavo Oliveira,Marketing
+49,Patricia Gomes,Financas
+50,Tiago Martins,Vendas
